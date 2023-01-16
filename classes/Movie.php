@@ -6,7 +6,7 @@ class Movie {
     public $year;
     public $duration;
 
-    public function __constructor ($title, $genre, $duration)
+    public function __construct ($title, $genre, $duration)
     {
         
     }
